@@ -1,5 +1,4 @@
 ---
-layout: nil
 ---
 [uno](uno)
 [dos](dos.md)
