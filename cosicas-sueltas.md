@@ -26,7 +26,7 @@
 
  * [minna-no-nihongo-2-set-ebook-6-audio](http://japonesparatodos.blogspot.com.es/2011/09/minna-no-nihongo-2-set-ebook-6-audio.html)
 
-* [Interstella_5555_-_The_5tory_of_the_5ecret_5tar_5ystem](http://es.wikipedia.org/wiki/Interstella_5555_-_The_5tory_of_the_5ecret_5tar_5ystem)
+* [Interstella_5555_-_The_5tory_of_the_5ecret_5tar_5ystem](http://es.wikipedia.org/wiki/Interstella_5555__The_5tory_of_the_5ecret_5tar_5ystem)
 
 * [Professor Poopsnagle's Steam Zeppelin](http://youtu.be/fGFNmEOntFA)
 
