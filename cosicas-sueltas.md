@@ -1,11 +1,11 @@
 # Cosicas sueltas
 
-##Proyectos de lanas
+## Proyectos de lanas
 
 *[EL RETO: ENERO_Cuello](http://www.thingstoknit.com/2015/01/el-reto-enero.html)
 *[Como lavar LANA](http://blog.woolandthegang.com/2015/01/how-to-wash-your-wool/?mc_cid=5046cbf197&mc_eid=f951d85027)
 
-##OTROS
+## OTROS
 
 * [Alone in the Dark - Guía_Wii](http://www.supercheats.com/wii/walkthroughs/aloneinthedark-walkthrough01.txt)
 
