@@ -67,6 +67,8 @@
 
 ---
 
+![今日は ぜんぜん なにも したくない。](/images/mafalda.png)
+
 ## Notas
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id metus eu leo molestie malesuada vel ac nisi. Fusce venenatis, odio ac feugiat viverra, nisl nibh rhoncus quam, at consectetur ante est eget turpis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur imperdiet lectus arcu, vel gravida mauris ultrices a. Integer facilisis sapien non eros commodo, et tristique est hendrerit. In vehicula aliquam quam. Morbi et dignissim elit.
