@@ -15,7 +15,6 @@
 [![](icons/google-docs.png)](http://docs.google.com/)
 [![](icons/dropbox.png)](http://www.dropbox.com/)
 [![](icons/wanikani.png)](http://www.wanikani.com/)
-[![](icons/shinkan3.png)](http://www.shinkan3.com/)
 [![](icons/ivoox.png)](http://www.ivoox.com/)
 [![](icons/newsblur.png)](http://newsblur.com/)
 
