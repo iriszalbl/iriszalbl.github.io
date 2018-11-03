@@ -59,7 +59,7 @@
 * [algaebase](http://www.algaebase.org/)
 
 ## Otras cosas
-* [Instagram](https://www.instagram.com/)
+
 * [Leer Blogs](http://newsblur.com/)
 * [Area de juventud ZGZ](http://www.zaragoza.es/ciudad/sectores/jovenes/cipaj/)
 * [FSM](http://www.venganza.org/)
