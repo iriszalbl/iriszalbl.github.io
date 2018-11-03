@@ -7,6 +7,7 @@
 [![](icons/google-plus.png)](https://plus.google.com/)
 [![](icons/twitter.png)](https://twitter.com/)
 [![](icons/tumblr.png)](https://www.tumblr.com/)
+[![](icons/instagram.png)](https://www.instagram.com/)
 
 
 [![](icons/trello.png)](http://www.trello.com/)
