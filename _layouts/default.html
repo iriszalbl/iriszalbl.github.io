@@ -44,9 +44,6 @@
       <nav>
         {% capture my_links %}{% include links.md %}{% endcapture %}
         {{ my_links | markdownify }}
-        <ul>
-            {% include links.html %}
-        </ul>
       </nav>
       <section>
         {{ content }}
