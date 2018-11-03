@@ -1,5 +1,6 @@
 ---
 ---
-[uno](uno)
-[dos](dos.md)
-[tres](tres.html)
+
+- [uno](uno)
+- [dos](dos.md)
+- [tres](tres.html)
