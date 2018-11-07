@@ -19,6 +19,9 @@
 [![](icons/ivoox.png)](http://www.ivoox.com/)
 [![](icons/newsblur.png)](http://newsblur.com/)
 
+[![](https://api.statvoo.com/favicon/?url=netflix.com)](http://netflix.com/)
+
+
 ## Descargas
 
 * [Rarbg](https://rarbg.is/torrents.php)
