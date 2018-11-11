@@ -20,7 +20,7 @@
 [![](icons/newsblur.png)](http://newsblur.com/)
 
 [![](icons/youtube.png)](http://youtube.com/)
-[![](https://api.statvoo.com/favicon/?url=netflix.com)](http://netflix.com/)
+[![](icons/netflix.png)](http://netflix.com/)
 
 ## Descargas
 
