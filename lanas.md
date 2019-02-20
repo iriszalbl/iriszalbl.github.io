@@ -1,5 +1,18 @@
 # Lanas y manualidades
 
+## Proyectos de lanas
+
+* [EL RETO: ENERO_Cuello](http://www.thingstoknit.com/2015/01/el-reto-enero.html)
+
+## Consejos
+
+* [Como lavar LANA](http://blog.woolandthegang.com/2015/01/how-to-wash-your-wool/?mc_cid=5046cbf197&mc_eid=f951d85027)
+* [Conversor ovillos](https://www.weareknitters.es/conversor-ovillos)
+
+## Manualidades
+
+* [Fabrica de texturas](https://www.instagram.com/fabricadetexturas/)
+
 ## Enlaces blogs y tiendas
 
 * [woolandthegang](https://www.woolandthegang.com/en)
@@ -41,14 +54,3 @@
 * [lilezknit](https://www.instagram.com/lilezknit/)
 * [kraftcroch](https://www.instagram.com/kraftcroch/)
 
-## Proyectos de lanas
-
-* [EL RETO: ENERO_Cuello](http://www.thingstoknit.com/2015/01/el-reto-enero.html)
-
-## Consejos
-
-* [Como lavar LANA](http://blog.woolandthegang.com/2015/01/how-to-wash-your-wool/?mc_cid=5046cbf197&mc_eid=f951d85027)
-
-## Manualidades
-
-https://www.instagram.com/fabricadetexturas/
