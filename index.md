@@ -62,7 +62,7 @@
 * [algaebase](http://www.algaebase.org/)
 
 ## Otras cosas
-
+* [Tarjeta Revolut](https://www.revolut.com/)
 * [Leer Blogs](http://newsblur.com/)
 * [Area de juventud ZGZ](http://www.zaragoza.es/ciudad/sectores/jovenes/cipaj/)
 * [FSM](http://www.venganza.org/)
