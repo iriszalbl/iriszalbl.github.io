@@ -42,6 +42,7 @@
 * [DKSelect](https://dk-kurashi.com/)
 * [Shinsei](https://pdirect08.shinseibank.com/FLEXCUBEAt/LiveConnect.dll?EntryFunc&fldAppID=RT&fldTxnID=LGN&fldScrSeqNo=00&fldLangID=ENG&fldDeviceID=01&fldRequestorID=40)
 * [Triodos](http://www.triodos.es/es/particulares/como-operar/bienvenido-oficina-internet/)
+* [Revolut](https://www.revolut.com/es-ES/)
 * [Caixa](https://portal.lacaixa.es/apl/cybertarjeta/index_es.html)
 * [ENDESA](https://www.endesaclientes.com/oficina/gestion-online.html)
 * [Vodafone](http://www.vodafone.es/particulares/es/)
