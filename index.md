@@ -21,6 +21,7 @@
 
 [![](icons/youtube.png)](http://youtube.com/)
 [![](icons/netflix.png)](http://netflix.com/)
+[![](icons/twitch.png)](https://www.twitch.tv/)
 
 ## Descargas
 
