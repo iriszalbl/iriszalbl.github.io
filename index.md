@@ -4,7 +4,7 @@
 [![](icons/hotmail.png)](https://mail.live.com/)
 [![](icons/yahoo.png)](https://mail.yahoo.com/)
 [![](icons/facebook.png)](http://www.facebook.com/)
-[![](icons/google-plus.png)](https://plus.google.com/)
+[![](icons/Pantallica.png)](http://192.168.1.201/)
 [![](icons/twitter.png)](https://twitter.com/)
 [![](icons/tumblr.png)](https://www.tumblr.com/)
 [![](icons/instagram.png)](https://www.instagram.com/)
