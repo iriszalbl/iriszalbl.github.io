@@ -1,7 +1,6 @@
 # KIOSKO
 
-* [Dorothy’s cutaway prints](https://www.wearedorothy.com/collections/cutaways/products/inside-information-special-offer-bundle)
-* [Aragón | AraInfo · Diario Libre d'Aragón](https://arainfo.org/category/arainfo/aragon/)
+* [Arainfo](https://arainfo.org/category/arainfo/aragon/)
 * [Ctxt.es](https://ctxt.es/)
 * [El Salto](https://www.elsaltodiario.com/salto-de-carro/encuentra-tu-ejemplar-de-el-salto)
 * [elDiario.es](https://www.eldiario.es/)
