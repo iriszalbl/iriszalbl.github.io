@@ -3,10 +3,7 @@
 [![](icons/gmail.png)](https://www.gmail.com/)
 [![](icons/hotmail.png)](https://mail.live.com/)
 [![](icons/yahoo.png)](https://mail.yahoo.com/)
-[![](icons/facebook.png)](http://www.facebook.com/)
 [![](icons/Pantallica.png)](http://192.168.1.201/)
-[![](icons/twitter.png)](https://twitter.com/)
-[![](icons/tumblr.png)](https://www.tumblr.com/)
 [![](icons/instagram.png)](https://www.instagram.com/)
 
 
@@ -17,7 +14,6 @@
 [![](icons/dropbox.png)](http://www.dropbox.com/)
 [![](icons/wanikani.png)](http://www.wanikani.com/)
 [![](icons/ivoox.png)](http://www.ivoox.com/)
-[![](icons/newsblur.png)](http://newsblur.com/)
 
 [![](icons/youtube.png)](http://youtube.com/)
 [![](icons/netflix.png)](http://netflix.com/)
